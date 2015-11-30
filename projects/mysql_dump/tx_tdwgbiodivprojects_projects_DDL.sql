@@ -1,22 +1,3 @@
-/*  ****************************************** 
-
-TDWG Biodiversity Data Projects
-
-During the TDWG Infrastructure Project (2005-2007) a list of Biodiversity Projects was compiled.  The structure of this table was created by Ricardo Pereira.  It was designed to work with Typo3, ver 4, and was populated through a web interface. Some records were entered by TIP project (probalby Lee Belbin), while some records were entered by project managers.
-
-This DDL script will create the table (structure) for the compilation of Projects.  
-
-The DDL and data for this table were exported 
- - as:  tx_tdwgbiodivprojects_projects_DDL.sql
-        tx_tdwgbiodivprojects_projects.csv
- - on:  2015-11-24
-
-They were produced by Sequel Pro version 1.0.2 build 4096.  MySQL version 5.5.44-MariaDB.
-
-******************************************** */
-
-
-
 CREATE TABLE `tx_tdwgbiodivprojects_projects` (
   `uid` int(11) NOT NULL AUTO_INCREMENT,
   `pid` int(11) NOT NULL DEFAULT '0',
