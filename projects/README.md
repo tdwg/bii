@@ -4,13 +4,11 @@ TDWG Biodiversity Data Projects
 
 The TDWG Infrastructure Project (2005-2007) created an online database for compiling a list of Biodiversity Projects.  The structure of this table was created by Ricardo Pereira. It was designed to work as the back end of a web content management system, Typo3, ver 4, and was populated through a web interface. 
 
-The data definition language (DDL) and data for this table were exported as:  
+The data definition language (DDL) and data for this table were exported on 2015-11-24, as:  
  - tx_tdwgbiodivprojects_projects_DDL.sql
  - tx_tdwgbiodivprojects_projects.csv  
 
-on:  2015-11-24
-
-The SQL script will create the table (structure) and import the data for the compilation of Projects.  The CSV is provided
+The SQL script will create the table (structure) and import the data for the compilation of projects.  The CSV is provided
 for easier access with other applications, such as a spreadsheet, but note that some database descriptions are long and may contain carriage returns (CR-LF).
 
 The exports were produced by:
