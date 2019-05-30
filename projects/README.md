@@ -16,9 +16,9 @@ The exports were produced by:
 A PDF of field descriptions (data table columns) was printed from the online documentation. 
 
 ### Credits
-concept and direction: Lee Belbin
-technical development: Ricardo Pereira
-initial data population: Piers Higgs
+Concept and direction: Lee Belbin  
+Technical development: Ricardo Pereira  
+Initial data population: Piers Higgs  
 
 ### Recommended citation:  
 Belbin, Lee; Higgs, Piers; Pereira, Ricardo. 2007. Biodiversity Information Projects of the World. Last modified 2015. Data set available at: https://github.com/tdwg/bii/tree/master/projects
