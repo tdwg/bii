@@ -16,7 +16,7 @@ The exports were produced by:
 A PDF of field descriptions (data table columns) was printed from the online documentation. 
 
 ### Credits
-Concept and direction: Lee Belbin (ORCID)[https://orcid.org/0000-0001-8900-6203]  
+Concept and direction: Lee Belbin [ORCID](https://orcid.org/0000-0001-8900-6203)  
 Technical development: Ricardo Pereira  
 Initial data population: Piers Higgs  
 
