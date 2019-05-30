@@ -1,6 +1,10 @@
 # Biodiversity Information Projects of the World
 
-The TDWG Infrastructure Project (2005-2007) created an online database for compiling a list of biodiversity information projects.  The structure of the database was created by Ricardo Pereira. It was designed to work as the back end of a web content management system, Typo3, ver 4, and was populated through a web interface. Typo3 supported version management, so previous versions of records were retained and the raw data contain multiple entries for any record that was edited.
+### Background
+The TDWG Infrastructure Project (2005-2007) created an online index to biodiversity information projects. The index was active from 2007 through 2015. The raw data file was posted here in late 2015.
+
+### Technical information
+The interface to the index was created with a web content management system (Typo3, ver 4) and a backend database of MySQL tables. The structure and data contained in the MySQL tables are provided below.
 
 The data definition language (DDL) and data for this table were exported on 2015-11-24, as:  
  - tx_tdwgbiodivprojects_projects.csv
@@ -14,6 +18,8 @@ The exports were produced by:
   server:  MySQL version 5.5.44-MariaDB
 
 A PDF of field descriptions (data table columns) was printed from the online documentation. 
+
+Typo3 supported version management, so previous versions of records were retained and the raw data contain multiple entries for any record that was edited.
 
 ### Credits
 Concept and direction: Lee Belbin [![image](https://static.tdwg.org/images/ORCIDiD_icon16x16.png) https://orcid.org/0000-0001-8900-6203](https://orcid.org/0000-0001-8900-6203)  
