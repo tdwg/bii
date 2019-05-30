@@ -1,8 +1,8 @@
 README - projects.txt  
 
-TDWG Biodiversity Data Projects
+# Biodiversity Information Projects of the World
 
-The TDWG Infrastructure Project (2005-2007) created an online database for compiling a list of Biodiversity Projects.  The structure of this table was created by Ricardo Pereira. It was designed to work as the back end of a web content management system, Typo3, ver 4, and was populated through a web interface. 
+The TDWG Infrastructure Project (2005-2007) created an online database for compiling a list of biodiversity information projects.  The structure of the database was created by Ricardo Pereira. It was designed to work as the back end of a web content management system, Typo3, ver 4, and was populated through a web interface. Typo3 retained previous versions of records, so the raw data contain multiple entries for any record that was edited.
 
 The data definition language (DDL) and data for this table were exported on 2015-11-24, as:  
  - tx_tdwgbiodivprojects_projects.csv
@@ -16,3 +16,11 @@ The exports were produced by:
   server:  MySQL version 5.5.44-MariaDB
 
 A PDF of field descriptions (data table columns) was printed from the online documentation. 
+
+### Credits
+concept and direction: Lee Belbin
+technical development: Ricardo Pereira
+initial data population: Piers Higgs
+
+### Recommended citation:  
+Belbin, Lee; Higgs, Piers; Pereira, Ricardo. 2007. Biodiversity Information Projects of the World. Taken offline and archived 2015. https://github.com/tdwg/bii/edit/master/projects 
