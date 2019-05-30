@@ -1,5 +1,3 @@
-README - projects.txt  
-
 # Biodiversity Information Projects of the World
 
 The TDWG Infrastructure Project (2005-2007) created an online database for compiling a list of biodiversity information projects.  The structure of the database was created by Ricardo Pereira. It was designed to work as the back end of a web content management system, Typo3, ver 4, and was populated through a web interface. Typo3 retained previous versions of records, so the raw data contain multiple entries for any record that was edited.
